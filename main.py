@@ -1,12 +1,11 @@
-
 from pet import Pet
 
 def main():
-    # Create a new pet
-    my_pet = Pet("Buddy")
+    # Create a new pet with a pet type
+    my_pet = Pet("Buddy", pet_type="Dragon")
     
     # Test the pet's functionality
-    print("Welcome to your virtual pet!")
+    print("🐉 Welcome to your virtual pet!")
     my_pet.get_status()
     
     # Test eating
@@ -19,6 +18,10 @@ def main():
     
     # Test sleeping
     my_pet.sleep()
+    my_pet.get_status()
+    
+    # Test cuddling (new action)
+    my_pet.cuddle()
     my_pet.get_status()
     
     # Test training
