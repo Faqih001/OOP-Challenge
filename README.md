@@ -49,7 +49,7 @@ To execute your Digital Pet program, follow these steps:
    - If not installed, download Python 3 from [python.org](https://www.python.org/downloads/) and install it, selecting "Add Python to PATH" during setup.
 
 2. **Set Up Files**:
-   - Save `pet.py` (containing your `Pet` class) and `main.py` (containing test code) in the same directory (e.g., `digital_pet`).
+   - Save `pet.py` (containing your `Pet` class) and `main.py` (containing test code) in the same directory (e.g., `OOP-Challenge`).
 
 3. **Open a Terminal**:
    - Windows: Press `Win + R`, type `cmd`, and press Enter.
