@@ -33,17 +33,54 @@ Create a class called `Pet` with the following:
 
 ## 📝 How to Complete
 
-1. Fork or clone this repo.
+1. Fork or clone this repo: https://github.com/Faqih001/OOP-Challenge
 2. Write your `Pet` class in `pet.py`.
 3. In `main.py`, create a pet object and call its methods to test functionality.
 4. Submit a GitHub repo or a zipped folder with your code and a screenshot of the output.
 
 ---
 
+## 🚀 How to Run the Challenge
+
+To execute your Digital Pet program, follow these steps:
+
+1. **Install Python**:
+   - Ensure Python 3 is installed. Check by running `python3 --version` or `python --version` in a terminal.
+   - If not installed, download Python 3 from [python.org](https://www.python.org/downloads/) and install it, selecting "Add Python to PATH" during setup.
+
+2. **Set Up Files**:
+   - Save `pet.py` (containing your `Pet` class) and `main.py` (containing test code) in the same directory (e.g., `digital_pet`).
+
+3. **Open a Terminal**:
+   - Windows: Press `Win + R`, type `cmd`, and press Enter.
+   - macOS/Linux: Open the Terminal app.
+
+4. **Navigate to the Directory**:
+   - Use the `cd` command to enter the directory with your files:
+     ```bash
+     cd path/to/digital_pet
+     ```
+
+5. **Run the Program**:
+   - Execute `main.py` with:
+     ```bash
+     python3 main.py
+     ```
+     or
+     ```bash
+     python main.py
+     ```
+   - This runs the program, displaying your pet's interactions and status.
+
+6. **Verify Output**:
+   - Check that the output matches the expected format (see Sample Output below).
+   - If errors occur, ensure both files are in the same directory and named correctly (`pet.py`, `main.py`).
+
+---
+
 ## ✅ Sample Output
 
 ```bash
-
 🐉 Welcome to your virtual pet!
 
 📊 Buddy the Dragon's Status:
@@ -84,10 +121,14 @@ Create a class called `Pet` with the following:
 🍖 Hunger: 3/10
 ⚡ Energy: 1/10
 😄 Happiness: 10/10
+```
 
-🏁 Submission
-Deadline: April 16th, 2025
+---
 
-Submission format: clone / fork this repo: https://github.com/Faqih001/OOP-Challenge
+## 🏁 Submission
 
-Bonus points for creativity (custom actions, emojis, pet types, etc.)
+**Deadline**: April 16th, 2025
+
+**Submission format**: Clone or fork this repo: https://github.com/Faqih001/OOP-Challenge
+
+**Bonus points**: Add creativity with custom actions (e.g., cuddling), emojis, or unique pet types (e.g., Dragon, Unicorn).
