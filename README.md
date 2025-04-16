@@ -40,24 +40,50 @@ Create a class called `Pet` with the following:
 ## ✅ Sample Output
 
 ```bash
-Creating pet: Max
-Max is eating...
-Max is playing...
-Max is sleeping...
-Max's current status:
-Hunger: 2
-Energy: 8
-Happiness: 9
-Tricks: ['roll over', 'play dead']
 
+🐉 Welcome to your virtual pet!
 
-### 💡 Tips
-Use max() and min() to keep values between 0 and 10.
+📊 Buddy the Dragon's Status:
+🍖 Hunger: 5/10
+⚡ Energy: 5/10
+😄 Happiness: 5/10
+🍽️ Buddy the Dragon ate some food! Hunger decreased, happiness increased. 😊
 
-Think about edge cases like trying to play when energy is 0.
+📊 Buddy the Dragon's Status:
+🍖 Hunger: 2/10
+⚡ Energy: 5/10
+😄 Happiness: 6/10
+🎉 Buddy the Dragon had fun playing! Happiness increased, but got hungrier and more tired. 🏃
+
+📊 Buddy the Dragon's Status:
+🍖 Hunger: 3/10
+⚡ Energy: 3/10
+😄 Happiness: 8/10
+😴 Buddy the Dragon took a nap! Energy increased. 💤
+
+📊 Buddy the Dragon's Status:
+🍖 Hunger: 3/10
+⚡ Energy: 8/10
+😄 Happiness: 8/10
+🤗 Buddy the Dragon loved the cuddles! Happiness increased, slightly tired. 💖
+
+📊 Buddy the Dragon's Status:
+🍖 Hunger: 3/10
+⚡ Energy: 7/10
+😄 Happiness: 10/10
+🎓 Buddy the Dragon learned a new trick: sit! 🐾
+🎓 Buddy the Dragon learned a new trick: roll over! 🐾
+🤔 Buddy the Dragon already knows sit!
+🌟 Buddy the Dragon's tricks: sit, roll over
+😓 Buddy the Dragon is too tired to play!
+
+📊 Buddy the Dragon's Status:
+🍖 Hunger: 3/10
+⚡ Energy: 1/10
+😄 Happiness: 10/10
 
 🏁 Submission
-Deadline: [Set your date]
+Deadline: April 16th, 2025
 
 Submission format: clone / fork this repo
 
