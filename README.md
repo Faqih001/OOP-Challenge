@@ -88,6 +88,6 @@ Create a class called `Pet` with the following:
 🏁 Submission
 Deadline: April 16th, 2025
 
-Submission format: clone / fork this repo
+Submission format: clone / fork this repo: https://github.com/Faqih001/OOP-Challenge
 
 Bonus points for creativity (custom actions, emojis, pet types, etc.)
