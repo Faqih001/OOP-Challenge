@@ -33,7 +33,7 @@ Create a class called `Pet` with the following:
 
 ## 📝 How to Complete
 
-1. Fork or clone this repo: https://github.com/Faqih001/OOP-Challenge
+1. Fork or clone this repo: <https://github.com/Faqih001/OOP-Challenge>
 2. Write your `Pet` class in `pet.py`.
 3. In `main.py`, create a pet object and call its methods to test functionality.
 4. Submit a GitHub repo or a zipped folder with your code and a screenshot of the output.
@@ -57,19 +57,24 @@ To execute your Digital Pet program, follow these steps:
 
 4. **Navigate to the Directory**:
    - Use the `cd` command to enter the directory with your files:
+
      ```bash
      cd path/to/digital_pet
      ```
 
 5. **Run the Program**:
    - Execute `main.py` with:
+
      ```bash
      python3 main.py
      ```
+
      or
+
      ```bash
      python main.py
      ```
+
    - This runs the program, displaying your pet's interactions and status.
 
 6. **Verify Output**:
@@ -129,6 +134,6 @@ To execute your Digital Pet program, follow these steps:
 
 **Deadline**: April 16th, 2025
 
-**Submission format**: Clone or fork this repo: https://github.com/Faqih001/OOP-Challenge
+**Submission format**: Clone or fork this repo: <https://github.com/Faqih001/OOP-Challenge>
 
 **Bonus points**: Add creativity with custom actions (e.g., cuddling), emojis, or unique pet types (e.g., Dragon, Unicorn).
